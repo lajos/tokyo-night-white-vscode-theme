@@ -1,5 +1,9 @@
-# [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
-[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/enkia.tokyo-night/Tokyo%20Night%20Storm)
+# Tokyo Night White
+
+This is a fork of enkia's [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme) VSCode theme. I changed the editor backgrounds to white, and some other background were made lighter.
+
+Here is the original README:
+
 
 A clean Visual Studio Code theme that celebrates the lights of Downtown [Tokyo at night.](https://www.google.com/search?q=tokyo+night&newwindow=1&sxsrf=ACYBGNRiOGCstG_Xohb8CgG5UGwBRpMIQg:1571032079139&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiayIfIhpvlAhUGmuAKHbfRDaIQ_AUIEigB&biw=1280&bih=666&dpr=2)
 
