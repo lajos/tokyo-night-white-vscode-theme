@@ -2,7 +2,7 @@
     "name": "Tokyo Night Light",
     "author": "Enkia",
     "maintainers": ["Enkia <enki77@gmail.com>"],
-    "type": "dark",
+    "type": "light",
     "semanticTokenColors": {
         "parameter.declaration": {
             "foreground": "#8f5e15"
@@ -448,6 +448,7 @@
         "menu.separatorBackground":"#c1c2c7",
         "menu.border":"#c1c2c7",
 
+        "chat.requestBackground": "#ffffff",
         "chat.requestBorder": "#c1c2c7",
         "chat.avatarBackground": "#2959aa",
         "chat.avatarForeground": "#ffffff",
