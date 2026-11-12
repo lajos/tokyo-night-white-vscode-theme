@@ -1,9 +1,9 @@
 {
-    "name": "tokyo-night",
-    "displayName": "Tokyo Night",
+    "name": "tokyo-night-white",
+    "displayName": "Tokyo Night White",
     "description": "A clean Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.",
     "version": "1.1.2",
-    "publisher": "enkia",
+    "publisher": "lajos",
     "license": "MIT",
     "keywords": [
         "theme",
@@ -14,13 +14,13 @@
         "clean"
     ],
     "icon": "icon.png",
-    "homepage": "https://github.com/enkia/tokyo-night-vscode-theme",
+    "homepage": "https://github.com/lajos/tokyo-night-vscode-theme",
     "repository": {
-        "url": "https://github.com/enkia/tokyo-night-vscode-theme",
+        "url": "https://github.com/lajos/tokyo-night-vscode-theme",
         "type": "git"
     },
     "bugs": {
-        "url": "https://github.com/enkia/tokyo-night-vscode-theme/issues"
+        "url": "https://github.com/lajos/tokyo-night-vscode-theme/issues"
     },
     "galleryBanner": {
         "color": "#1f2335",
@@ -36,17 +36,17 @@
     "contributes": {
         "themes": [
             {
-                "label": "Tokyo Night",
+                "label": "Tokyo Night (Black)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/tokyo-night-color-theme.json"
             },
             {
-                "label": "Tokyo Night Storm",
+                "label": "Tokyo Night Storm (Black)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/tokyo-night-storm-color-theme.json"
             },
             {
-                "label": "Tokyo Night Light",
+                "label": "Tokyo Night Light (White)",
                 "uiTheme": "vs",
                 "path": "./themes/tokyo-night-light-color-theme.json"
             }
