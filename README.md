@@ -1,6 +1,6 @@
 # Tokyo Night White
 
-This is a fork of enkia's [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme) VSCode theme. I changed the editor backgrounds to white, and some other background were made lighter.
+This is a fork of enkia's [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme) VSCode theme. I changed the editor backgrounds to white, and some other backgrounds were made lighter.
 
 Here is the original README:
 
